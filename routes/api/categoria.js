@@ -14,11 +14,11 @@ console.log(process.env.PORT);
 var pool  = mysql.createPool({
     connectionLimit : 100,
 
-    host: 'adryan3.sytes.net',
-    user: 'pancho1',
-    password: '12345678',
+    host: 'adry.sytes.net',
+    user: 'pancho85',
+    password: '123',
     port: 3306,    
-    database: 'pagsfsystem'
+    database: 'fsystem'
 
 });
 
